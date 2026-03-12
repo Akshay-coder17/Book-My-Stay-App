@@ -41,7 +41,7 @@ class BookingRequestQueue {
     }
 }
 
-public class BookMyApp {
+public class HotelBookingManagementSystem {
 
     public static void main(String[] args) {
 
